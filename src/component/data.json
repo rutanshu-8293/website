@@ -1,0 +1,146 @@
+[
+    {
+        "id":1,
+        "image":"image/Product1.jpg",
+        "price":"₹80.70 – ₹252.40",
+        "decri":"Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"12S Slim Pro Laptop",
+        "catagory":"Appliances"
+    },
+    {
+        "id":2,
+        "image":"image/Product-2.jpg",
+        "price":"₹80.70 – ₹130.85",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"5G Smartphone",
+        "catagory":"Gadgets"
+    },
+    {
+        "id":3,
+        "image":"image/product3.jpg",
+        "price":"₹91.20 – ₹95.50",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Android Phone",
+        "catagory":"Gadgets"
+    },
+    {
+        "id":4,
+        "image":"image/Product4.jpg",
+        "price":"₹42.25 – ₹42.80",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Black Smart Watch",
+        "catagory":"Smartwatches"
+    },
+    {
+        "id":5,
+        "image":"image/Product5.jpg",
+        "price":"₹38.40 – ₹38.80",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Bluetooth Speaker",
+        "catagory":"Home Audio"
+    },
+    {
+        "id":6,
+        "image":"image/Product6.jpg",
+        "price":"₹129.30 – ₹129.70",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Digital Camera",
+        "catagory":"Camera"
+    },
+    {
+        "id":7,
+        "image":"image/Product7.jpg",
+        "price":"₹121.70 – ₹122.75",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Gaming CPU",
+        "catagory":"Gaming Accessories"
+    },
+    {
+        "id":8,
+        "image":"image/Product8.jpg",
+        "price":"₹38.40 – ₹38.75",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Gaming Keyboard",
+        "catagory":"Gaming Accessories"
+    },
+    {
+        "id":9,
+        "image":"image/Product9.jpg",
+        "price":"₹18.00 – ₹80.70",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"In-Ear Headset",
+        "catagory":"Home Audio"
+    },
+    {
+        "id":10,
+        "image":"image/product10.jpg",
+        "price":"₹8.20 – ₹8.80",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"IMulti Line Pin",
+        "catagory":"Home Audio"
+    },
+    {
+        "id":11,
+        "image":"image/Product11.jpg",
+        "price":"₹28.50 – ₹29.40",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Play Station Remote",
+        "catagory":"Gaming Accessories"
+    },
+    {
+        "id":12,
+        "image":"image/product12.jpg",
+        "price":"₹115.00",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Portable Speaker",
+        "catagory":"Home Audio"
+    },
+    {
+        "id":13,
+        "image":"image/product13.jpg",
+        "price":"₹325.80 – ₹326.70",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Smart LED TV",
+        "catagory":"Home Audio"
+    },
+    {
+        "id":14,
+        "image":"image/product14.jpg",
+        "price":"₹18.00",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Spider Drone 5000",
+        "catagory":"Camera"
+    },
+    {
+        "id":15,
+        "image":"image/product15.jpg",
+        "price":"₹8.75 – ₹9.85",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"TV Remote Control",
+        "catagory":"Home Audio"
+    },
+    {
+        "id":16,
+        "image":"image/product16.jpg",
+        "price":"₹30.00 – ₹42.00",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"VR Gaming Set",
+        "catagory":"Gaming Accessories"
+    },
+    {
+        "id":17,
+        "image":"image/product17.jpg",
+        "price":"₹30.00 – ₹42.00",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"VR Headset",
+        "catagory":"Gaming Accessories"
+    },
+    {
+        "id":18,
+        "image":"image/product18.jpg",
+        "price":"₹49.10 – ₹49.50",
+        "decri":" Etiam quis lobortis odio, at sodales mauris. Morbi fermentum pretium ligula, id efficitur quam mattis in. Fusce nec pretium ante. Vivamus vitae bibendum lacus, ac varius ligula.",
+        "name":"Wireless Headset",
+        "catagory":"Gaming Accessories"
+    }
+]

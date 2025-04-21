@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "image":"image/team-1.jpg",
+        "name":"Alireza Behzan",
+        "work":"Electrical Engineer"
+    },
+    {
+        "id":2,
+        "image":"image/team-2.jpg",
+        "name":"Irena Shereen",
+        "work":"Warehouse Manager"
+    },
+    {
+        "id":3,
+        "image":"image/team-3.jpg",
+        "name":"Amedeo Vico",
+        "work":"Supply Chain Manager"
+    },
+    {
+        "id":4,
+        "image":"image/team-4.jpg",
+        "name":"IIda Valeria",
+        "work":"Sales Manager"
+    },
+    {
+        "id":5,
+        "image":"image/team-5.jpg",
+        "name":"Behruz Habib",
+        "work":"Operations Manager"
+    },
+    {
+        "id":6,
+        "image":"image/team-6.jpg",
+        "name":"Renata Zitz",
+        "work":"Product Specialist"
+    },
+    {
+        "id":7,
+        "image":"image/team-7.jpg",
+        "name":"Farah Shahrzad",
+        "work":"E-Commerce Specialist"
+    },
+    {
+        "id":8,
+        "image":"image/team-8.jpg",
+        "name":"Samantha Zita",
+        "work":"Logistics Coordinator"
+    }
+]
